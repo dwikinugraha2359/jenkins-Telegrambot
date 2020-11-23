@@ -21,7 +21,7 @@ var { runJobMenu } = require('./runJobJS');
 var { editJobScene } = require('./editJobJS');
 var { deleteJobMenu } = require('./deleteJobJS');
 
-const bot = new Telegraf("631171922:AAHjQlxw5sjnj4--XI72dkqANgADy3Ib5Fw") // get the token from envirenment variable
+const bot = new Telegraf("Token") // get the token from envirenment variable
 const stage = new Stage([addJobScene, editJobScene]);
 
 bot.use(session());
