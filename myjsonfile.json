@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "APITest-Articulo",
+    "token": "2359Jenkins-APITestArticulo"
+  },
+  {
+    "id": 2,
+    "name": "APITest-Articulo2",
+    "token": "2359Jenkins-APITestArticulo"
+  },
+  {
+    "name": "editAPI",
+    "token": "editToken",
+    "id": 45
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "jenkins-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jenkins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dwiki nugraha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "curl-cmd": "0.0.1",
+    "telegraf": "^3.38.0",
+    "valid-url": "^1.0.9"
+  }
+}
